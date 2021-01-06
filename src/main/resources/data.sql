@@ -1,0 +1,2 @@
+insert into stock_exchange_value (id, script,high,low,current) values(10000001,'INFY',10000,9990,10090);
+insert into stock_exchange_value (id, script,high,low,current) values(10000002,'APL',100,99,100);
